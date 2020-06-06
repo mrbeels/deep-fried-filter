@@ -1,5 +1,5 @@
 # deep-fried-filter 
-Mr Beel's Deep Fried Filter Generator
+Mr Beels' Deep Fried Filter Generator
 
 ## Steps :
 ### 1) Install the pillow library
