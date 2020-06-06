@@ -10,6 +10,12 @@ pip install Pillow
 
 ### 2) Put file in same folder as script
 
-### 3) Input your folder
+### 3) Input your image file and specify extension
+
+```
+eg. done.png
+```
 
 ### 4) PROFIT?????!!?!?!?!? XD
+
+
