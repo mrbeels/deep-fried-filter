@@ -34,7 +34,7 @@ class Augment():
 if __name__ == "__main__":
     try:
         print(
-            "You are using Mr Beel's Deep Fried Meme Filter! \nCheck out : https://github.com/mrbeels \n\n    ( ͡° ͜ʖ ͡°) ¯\_(ツ)_/¯ \n")
+            "You are using Mr Beels' Deep Fried Meme Filter! \nCheck out : https://github.com/mrbeels \n\n    ( ͡° ͜ʖ ͡°) ¯\_(ツ)_/¯ \n")
         image = Augment()
         image.import_image(INPUT_IMG)
         for i in range(2):
