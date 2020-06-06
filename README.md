@@ -13,9 +13,15 @@ pip install Pillow
 ### 3) Input your image file and specify extension
 
 ```
-eg. done.png
+eg. done.jpg
 ```
+
+![done.png](done.jpg)
 
 ### 4) PROFIT?????!!?!?!?!? XD
 
+```
+eg. deep-fried-done.jpg
+```
 
+![done.png](deep-fried-done.jpg)
